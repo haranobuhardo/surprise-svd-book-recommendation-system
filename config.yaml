@@ -1,0 +1,5 @@
+svd_model_path: pickels/svd_model.pkl
+book_dataset_path: dataset/Books.csv
+ratings_dataset_path: dataset/Ratings.csv
+users_dataset_path: dataset/Users.csv
+print_debug: true
