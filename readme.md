@@ -37,7 +37,7 @@ Due to the large size of the dataset and model files:
 bash
 
 ```bash
-git clone [Your Repository Link]
+git clone https://github.com/haranobuhardo/surprise-svd-book-recommendation-system
 ```
 
 2.  Navigate to the project directory:
@@ -45,7 +45,7 @@ git clone [Your Repository Link]
 bash
 
 ```bash
-cd [Your Project Directory]
+cd surprise-svd-book-recommendation-system
 ```
 
 3.  Run the Streamlit app:
